@@ -1,0 +1,5 @@
+{
+  "name": "Chess Tic-Tac-Toe (4x4)",
+  "description": "A unique strategy game combining chess movement with Tic-Tac-Toe objectives on a 4x4 grid. Place pieces or move them to align all four of your pieces (Pawn, Rook, Knight, Bishop) in a row, column, or diagonal.",
+  "requestFramePermissions": []
+}
