@@ -25,6 +25,13 @@ On your turn, you can either:
 
 ---
 
+## ▶️ Play Online
+
+You can play Chess Tic-Tac-Toe (4x4) directly in your browser at:
+[chesstactoe.crevex.org](https://chesstactoe.crevex.org)
+
+---
+
 ## 🚀 Features
 
 *   **Solo Mode (vs CPU)**: Challenge an AI with 3 difficulty levels:
